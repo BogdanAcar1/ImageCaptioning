@@ -1,0 +1,2 @@
+dump captions after processing
+improve generator

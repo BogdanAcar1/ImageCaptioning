@@ -1,0 +1,6 @@
+Flicker8k_Dataset/*
+Flickr8k_text/*
+__pycache__/*
+captions.txt
+*.pkl
+*.h5
